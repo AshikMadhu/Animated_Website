@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Animated%20Watch%20Website&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">⌚ Cinematic Mechanical Watch Showcase</h1>
+<h1 align="center">⌚ Mechanical Watch Showcase</h1>
 <p align="center">
   A premium, scroll-driven animated product experience built with modern web technologies.
 </p>
